@@ -1,13 +1,3 @@
-## Hi!
-
-### About Me
-I'm currently a student at SBU, with interests in developing:
-- Web Apps
-- Android Apps
-- Games
-
-Feel free to check out my projects to see the work I've done.
-
 <!--
 **liwll/liwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
